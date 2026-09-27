@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mang0incc&label=Profile%20views&color=0e75b6&style=flat-square" alt="mang0incc" /> </p>
 
-- 🔭 I’m currently working on [MindClear](https://github.com/mang0incc/MindClear_Demo)
+- 🔭 I’m currently working on [MangeoMic](https://github.com/mang0incc/MangeoMic)
 
 - 🌱 I’m currently learning **Kotlin, AI, Swift**
 
